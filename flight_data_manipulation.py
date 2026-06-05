@@ -45,4 +45,3 @@ plt.xlabel('Date of flight.')
 plt.ylabel('Number of passengers.')
 plt.title('Number of passengers flying on a given date.')
 plt.show()
-# %%
